@@ -57,4 +57,5 @@ java -jar YinIAngWarriors.jar -p $playerRole -h $ipAddress -t $timeout
 ## Contributors
 Milo Marchetti - @imRaazy<br>
 Nicolò Bartelucci - @nicobargit<br>
-Nicolò Saccone - @nicosac97
+Nicolò Saccone - @nicosac97<br><br>
+Forked from @imRaazy git.
